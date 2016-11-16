@@ -10,7 +10,7 @@ Depth First Search : It starts at the root (selecting the source node as the roo
 
 Breadth First Search : It starts at the root (selecting the source node as the root) and explores the neighbor nodes first, before moving to the next level neighbors.
 
-# Informed Algorithm:
+# Informed Algorithm: A-Star
 A-Star : It solves problems by searching among all possible paths to the solution (the goal node) for the one that incurs the smallest cost (least distance travelled, shortest time, etc.), and among these paths it first considers the ones that appears to lead most quickly to the solution, by using the heuristic function.
 
 # How to run:
@@ -47,5 +47,5 @@ You can test the script on multiple inputs using the Runner.py utility, Make sur
 
 # Graph Generators:
 Two generators are included:<br>
-1. Generates a large and dense graph consisting of 8K nodes
+1. Generates a large and dense graph consisting of 8K nodes<br>
 2. Generates random graphs based on 4 different parameters of the graph.
